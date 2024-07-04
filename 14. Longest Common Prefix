@@ -1,0 +1,49 @@
+public class Solution {
+    public String longestCommonPrefix(String[] strs) {
+        if (strs == null || strs.length == 0) {
+            return "";
+        }
+
+        // Find the shortest string in the array
+        int minLength = Integer.MAX_VALUE;
+        for (String str : strs) {
+            minLength = Math.min(minLength, str.length());
+        }
+
+        // Compare characters one by one
+        for (int i = 0; i < minLength; i++) {
+            char currentChar = strs[0].charAt(i);
+            for (int j = 1; j < strs.length; j++) {
+                if (strs[j].charAt(i) != currentChar) {
+                    return strs[0].substring(0, i);
+                }
+            }
+        }
+
+        // If we complete the loop, the common prefix is the entire shortest string
+        return strs[0].substring(0, minLength);
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        // Get the number of strings
+        System.out.print("Enter the number of strings: ");
+        int n = scanner.nextInt();
+        scanner.nextLine();  // Consume the newline
+
+        // Get the input strings
+        String[] strs = new String[n];
+        System.out.println("Enter the strings:");
+        for (int i = 0; i < n; i++) {
+            strs[i] = scanner.nextLine();
+        }
+
+        // Create an instance of the Solution class and find the longest common prefix
+        Solution solution = new Solution();
+        String result = solution.longestCommonPrefix(strs);
+
+        // Print the result
+        System.out.println("The longest common prefix is: " + result);
+    }
+}

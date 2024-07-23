@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Table
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Tree
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2472-build-a-matrix-with-conditions) |
+## Sorting
+|  |
+| ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->

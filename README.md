@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0090-subsets-ii) |
 | [0948-sort-an-array](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1207-delete-nodes-and-return-forest) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |

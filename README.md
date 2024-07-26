@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0090-subsets-ii) |
 | [0948-sort-an-array](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1333-sort-the-jumbled-numbers) |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0948-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

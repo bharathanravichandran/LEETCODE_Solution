@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0090-subsets-ii) |
 | [0948-sort-an-array](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1196-filling-bookcase-shelves](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0090-subsets-ii) |
+| [0921-spiral-matrix-iii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1207-delete-nodes-and-return-forest) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0073-set-matrix-zeroes) |
+| [0921-spiral-matrix-iii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0273-integer-to-english-words) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->

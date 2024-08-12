@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0072-edit-distance) |
 | [1196-filling-bookcase-shelves](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0072-edit-distance) |
 | [0273-integer-to-english-words](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0273-integer-to-english-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2727-number-of-senior-citizens) |

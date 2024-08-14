@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0090-subsets-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0090-subsets-ii) |
 ## Bit Manipulation

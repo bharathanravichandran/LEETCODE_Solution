@@ -39,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2171-second-minimum-time-to-reach-destination) |

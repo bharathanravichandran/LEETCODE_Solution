@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2472-build-a-matrix-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2727-number-of-senior-citizens) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0090-subsets-ii) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0072-edit-distance) |
 | [1196-filling-bookcase-shelves](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1511-count-number-of-teams) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0092-reverse-linked-list-ii) |
+## Bitmask
+|  |
+| ------- |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/3431-find-the-minimum-cost-array-permutation) |
 <!---LeetCode Topics End-->

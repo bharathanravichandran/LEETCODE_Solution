@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0090-subsets-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0948-sort-an-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math

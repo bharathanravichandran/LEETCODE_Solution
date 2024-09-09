@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-decode-xored-permutation](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1835-decode-xored-permutation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2411-spiral-matrix-iv](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2472-build-a-matrix-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2727-number-of-senior-citizens) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/3431-find-the-minimum-cost-array-permutation) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2411-spiral-matrix-iv](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0921-spiral-matrix-iii) |
+| [2411-spiral-matrix-iv](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2411-spiral-matrix-iv) |
 ## Union Find
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0092-reverse-linked-list-ii) |
+| [2411-spiral-matrix-iv](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2411-spiral-matrix-iv) |
 ## Bitmask
 |  |
 | ------- |

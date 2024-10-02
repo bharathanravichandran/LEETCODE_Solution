@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1511-count-number-of-teams) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0999-regions-cut-by-slashes](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |

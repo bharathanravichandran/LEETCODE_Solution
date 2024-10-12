@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2472-build-a-matrix-with-conditions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2727-number-of-senior-citizens](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2727-number-of-senior-citizens) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Hash Table
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0948-sort-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Merge Sort
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/0890-lemonade-change) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -232,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/3431-find-the-minimum-cost-array-permutation) |
+## Prefix Sum
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bharathanravichandran/LEETCODE_Solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
